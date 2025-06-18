@@ -66,5 +66,23 @@ bash
 
 Acesse http://localhost:3000 para visualizar a aplicação rodando localmente.
 
+## Estrutura do projeto
+
+Project-Web/
+├── public/               # Arquivos estáticos como imagens e ícones
+├── src/
+│   ├── components/       # Componentes React reutilizáveis
+│   ├── pages/            # Páginas e rotas do Next.js
+│   ├── styles/           # Arquivos CSS e Tailwind config
+│   ├── types/            # Tipos TypeScript personalizados
+│   ├── utils/            # Funções utilitárias e helpers
+│   └── context/          # Gerenciamento de estado global
+├── .gitignore
+├── next.config.js        # Configurações do Next.js
+├── tailwind.config.js    # Configurações do Tailwind CSS
+├── tsconfig.json         # Configurações do TypeScript
+├── package.json
+└── README.md
+
 
 
