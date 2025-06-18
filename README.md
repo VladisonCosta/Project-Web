@@ -47,5 +47,24 @@ Este projeto serve como base para estudos, prototipação ou como ponto de parti
    git clone https://github.com/VladisonCosta/Project-Web.git
    cd Project-Web
 
+2. **Instale as dependências**
+bash
+
+npm install
+# ou
+yarn install
+
+3. **Execute a aplicação**
+bash
+
+npm run dev
+# ou
+yarn dev
+
+4. **Abra no navegador**
+bash
+
+Acesse http://localhost:3000 para visualizar a aplicação rodando localmente.
+
 
 
